@@ -52,7 +52,7 @@ public class Add_Cust extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Customer UID");
+        jLabel1.setText("Customer ID");
 
         jLabel2.setText("First Name");
 
